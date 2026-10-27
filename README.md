@@ -1,22 +1,39 @@
-# Awesome Digital Portfolio Management (DPM) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Digital Portfolio Management Banner" width="100%">
+</p>
 
-> A curated list of leading Enterprise Digital Portfolio Management (DPM), Strategic Portfolio Management (SPM), Project Portfolio Management (PPM), and open-source portfolio systems, frameworks, and tools.
+# Awesome Digital Portfolio Management (DPM) 🚀
 
-Digital Portfolio Management (DPM) bridges the gap between enterprise strategy, digital products, services, agile execution, and financial governance. It empowers leaders to align investments, optimize resource allocation, track real-time performance indicators, and maximize value delivery across complex organizations.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awssome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Portfolio-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Portfolio-Management?style=flat-square" alt="Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Portfolio-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Portfolio-Management?style=flat-square" alt="Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Portfolio-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 🧭 A comprehensive, curated list of enterprise Digital Portfolio Management (DPM), Strategic Portfolio Management (SPM), Project Portfolio Management (PPM), FinOps governance platforms, and battle-tested open-source systems.
+
+Digital Portfolio Management (DPM) connects high-level enterprise business strategy, digital products, services, agile delivery, and financial performance. It equips leaders, engineering executives, and PMOs to align investments, model capacity scenarios, track real-time value streams, and eliminate portfolio execution bottlenecks.
 
 ---
 
-## Contents
+## 📑 Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [Enterprise SaaS & Commercial Platforms](#enterprise-saas--commercial-platforms)
-- [Open-Source Solutions](#open-source-solutions)
-- [Key Evaluation Criteria](#key-evaluation-criteria)
-- [Contributing](#contributing)
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 Enterprise SaaS & Commercial Platforms](#-enterprise-saas--commercial-platforms)
+- [🔓 Open-Source Solutions](#-open-source-solutions)
+- [🎯 Key Evaluation Criteria](#-key-evaluation-criteria)
+- [🌟 Star History](#-star-history)
+- [💖 Support & Community](#-support--community)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ---
 
-## Sector Overview & Market Dynamics
+## 🌐 Sector Overview & Market Dynamics
 
 The global Digital Portfolio Management and Strategic/Project Portfolio Management (SPM/PPM) market is valued at approximately **$8.6B to $9.9B (2024–2025)** and is projected to surpass **$11.2B by 2026**, growing at a steady compound annual growth rate (CAGR) of ~12% to 12.8%.
 
@@ -24,11 +41,11 @@ The sector exhibits a **bifurcated market structure**: it is **moderately concen
 
 ---
 
-## Enterprise SaaS & Commercial Platforms
+## 🏢 Enterprise SaaS & Commercial Platforms
 
 The table below lists leading commercial DPM and Strategic Portfolio Management SaaS platforms, sorted in descending order by parent company size (market valuation / enterprise capitalization).
 
-| Product | Parent / Vendor | Company Size (Valuation / Revenue) | Starting Tier Pricing | Free Tier / Trial Limits | Key Portfolio Capabilities |
+| Product 📦 | Parent / Vendor 🏛️ | Company Size (Valuation / Revenue) 📈 | Starting Tier Pricing 💵 | Free Tier / Trial Limits ⏳ | Key Portfolio Capabilities ⚙️ |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Broadcom Clarity PPM](https://www.broadcom.com/products/software/enterprise-software/clarity-ppm) | Broadcom Inc. | ~$800B+ Market Cap ($38.8B+ FY23 Revenue) | $60 / user / month (baseline annual contract; enterprise minimums apply) | No permanent free tier; evaluations available via vendor proof-of-concept / guided enterprise demos | Full-lifecycle Strategic Portfolio Management (SPM), investment planning, roadmapping, capacity planning, and financials |
 | [IBM Apptio](https://www.apptio.com/) | IBM | ~$200B+ Market Cap ($61.8B+ FY23 Revenue; Apptio acquired for $4.6B) | $2,500 / month ($30,000 / year base for up to $1M managed spend; ITFM modules start at $6,670/mo) | 28-day free trial (Apptio Cloudability) with limited scope & optimization validation; no permanent free tier | Technology Business Management (TBM), FinOps, IT Financial Management (ITFM), and multi-cloud portfolio spend tracking |
@@ -40,11 +57,11 @@ The table below lists leading commercial DPM and Strategic Portfolio Management 
 
 ---
 
-## Open-Source Solutions
+## 🔓 Open-Source Solutions
 
 Self-hosted, transparent, and developer-friendly platforms for project, product, and digital wealth portfolio management. Sorted in descending order by GitHub stargazer count.
 
-| Project | Stars | Primary Language / Stack | License | Description |
+| Project 🛠️ | Stars ⭐ | Primary Language / Stack 💻 | License 📜 | Description 📝 |
 | :--- | :---: | :--- | :--- | :--- |
 | [OpenProject](https://github.com/opf/openproject) | [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers) | Ruby on Rails, Angular, PostgreSQL | GNU GPL v3 | Leading open-source web platform for product, project, and strategic portfolio management. Features agile boards, multi-project hierarchies, Gantt roadmaps, cost tracking, and team resource planning. |
 | [Leantime](https://github.com/Leantime/leantime) | [![GitHub stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers) | PHP, JavaScript, MySQL | AGPL v3 | Strategic, goals-focused project and portfolio management system designed with cognitive accessibility (ADHD/Autism) in mind. Bridges high-level OKRs, milestone roadmaps, and lean task execution. |
@@ -56,21 +73,45 @@ Self-hosted, transparent, and developer-friendly platforms for project, product,
 
 ---
 
-## Key Evaluation Criteria
+## 🎯 Key Evaluation Criteria
 
 When selecting between commercial and open-source portfolio systems, evaluate:
 
-1. **Strategic Alignment & OKR Mapping:** Ability to correlate everyday deliverables, features, and Epics to high-level strategic objectives and portfolio horizons.
-2. **Resource Capacity & Scenario Modeling:** Support for real-time what-if simulations, team utilization tracking, and skill constraint modeling.
-3. **Financial Governance & FinOps:** Granular budget allocation, planned vs. actual cost comparisons, capital expenditure (CapEx) vs. operational expenditure (OpEx) attribution.
-4. **Integration Ecosystem:** Direct hooks into CI/CD pipelines, issue trackers (Jira, GitHub, GitLab), ERPs (SAP, Oracle), and ITSM suites.
-5. **Data Privacy & Governance:** On-premises vs. SaaS deployment options, role-based access control (RBAC), and regulatory compliance audits.
+1. 🎯 **Strategic Alignment & OKR Mapping:** Ability to correlate everyday deliverables, features, and Epics to high-level strategic objectives and portfolio horizons.
+2. 👥 **Resource Capacity & Scenario Modeling:** Support for real-time what-if simulations, team utilization tracking, and skill constraint modeling.
+3. 💳 **Financial Governance & FinOps:** Granular budget allocation, planned vs. actual cost comparisons, capital expenditure (CapEx) vs. operational expenditure (OpEx) attribution.
+4. 🔌 **Integration Ecosystem:** Direct hooks into CI/CD pipelines, issue trackers (Jira, GitHub, GitLab), ERPs (SAP, Oracle), and ITSM suites.
+5. 🛡️ **Data Privacy & Governance:** On-premises vs. SaaS deployment options, role-based access control (RBAC), and regulatory compliance audits.
 
 ---
 
-## Contributing
+## 🌟 Star History
 
-Contributions are always welcome!
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Digital-Portfolio-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Digital-Portfolio-Management&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Community
+
+Thank you for visiting and supporting **Awesome Digital Portfolio Management**! 🎉
+
+If you found this curated collection helpful in navigating DPM, SPM, or portfolio frameworks:
+- ⭐ **Star** this repository on GitHub to show your appreciation and help others discover it.
+- 🍴 **Fork** it and build upon the knowledge base for your team or organization.
+- 📢 **Share** it with your engineering leaders, PMO peers, and agile transformation groups!
+
+☕ If you'd like to support the ongoing maintenance and curation of open resources:
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-Buy%20Me%20A%20Coffee-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Buy Me A Coffee / Sponsor" />
+  </a>
+</p>
+
+---
+
+## 🤝 Contributing
+
+Contributions are always welcome! 💡
 1. Fork this repository.
 2. Create a descriptive branch: `git checkout -b feature/add-tool-name`.
 3. Add your entry following the established table structure and sorting rules.
@@ -78,6 +119,6 @@ Contributions are always welcome!
 
 ---
 
-## License
+## 📄 License
 
 This work is licensed under the [MIT License](LICENSE).
